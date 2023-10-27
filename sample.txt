@@ -1,0 +1,12 @@
+TThe hhe e ppath ath with reference twith o tthe hhe e  rroot  oot  oott  ddirectory iirectory rectory iis s ccalled aabbsolute.
+TTThe hhe e ppath ath with reference twith o tthe hhe e  rroot  oot  oott  dddirectory  irectory  iirectory rectory iis s ccalled aabbsolute.
+The path with rThe eference  o the current directory iroot s c alled relative.
+touchcreate empty files & update the ttimestampimestamp}
+# ca{create the files, put some data in files, view the data}
+cat cat  > file.name 	ffilefilefile{using redirection we can copy the data, we can create files }
+cat  > file.name 	ffilefilefile{using redirection we can copy the data, we can create files }
+cat  > file.name 	ffilefilefile{using redirection we can copy the data, we can create files }
+cat  > file.name 	file{using redirection we can copy the data, we can create files }
+cat  >c tfile.name 	{using redirection we can copy the data, we can create files }
+
+
